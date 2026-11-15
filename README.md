@@ -8,4 +8,4 @@ HTML5 & CSS3 (Mobile First / Design Responsivo)
 
 Git & GitHub (Controle de versão e hospedagem via GitHub Pages)
 
-🔗 Acesse o projeto online: andrekayky.github.io/projeto-android/
+🔗 Acesse o projeto online: https://andrekayky.github.io/projeto-android/
